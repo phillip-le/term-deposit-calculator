@@ -57,7 +57,7 @@ pnpm format
 ## Assumptions
 
 - Assumed that when interest is paid "at maturity" that this is the same as simple interest because no interest is paid during the investment term and so, there is no change to the principal amount during the investment term
-- Assumed that all interest paid during the investment term are reinvested into the term deposit
+- Assumed that all interest paid during the investment term is reinvested into the term deposit
 
 ## Tradeoffs
 
