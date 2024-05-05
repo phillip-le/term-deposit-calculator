@@ -2,7 +2,7 @@ import "./App.css";
 import { TermDepositCalculator } from "./term-deposit-calculator/components/TermDepositCalculator";
 
 function App() {
-	return <TermDepositCalculator />;
+  return <TermDepositCalculator />;
 }
 
 export default App;
